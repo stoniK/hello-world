@@ -1,6 +1,4 @@
 # hello-world
-<h1>Hello World</h1>
-
 
 Hey guys this is me following GitHub's "Hello World" tutorial.
 <br>
